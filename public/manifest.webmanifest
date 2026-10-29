@@ -1,0 +1,16 @@
+{
+  "name": "GestureKart",
+  "short_name": "GestureKart",
+  "description": "Physical-gesture-controlled 3D traffic safety simulator set on Lahore Canal Road.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06080e",
+  "theme_color": "#06080e",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
